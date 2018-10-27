@@ -1,0 +1,2 @@
+Mikstura zdrowia [1] +20hp
+Mikstura magiczna [2] +20MP
